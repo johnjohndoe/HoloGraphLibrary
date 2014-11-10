@@ -17,6 +17,12 @@ This is a library written to allow beautiful graphs and charts to be easily inco
 
 ### Gradle build
 
+Set Android SDK path environment variable
+
+```bash
+$ export ANDROID_HOME='path to android sdk'
+```
+
 To install the sample application to your device run the following task:
 
 ```bash
